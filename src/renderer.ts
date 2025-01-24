@@ -29,5 +29,5 @@
 import "./index.css";
 
 console.log(
-  '👋 This message is being logged by "renderer.ts", included via Vite, and rendered by Electron.'
+  '👋 This message is being logged by "renderer.ts", included via Vite, and render1111ed by Eleca11tron.'
 );
